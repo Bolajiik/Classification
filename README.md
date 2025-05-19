@@ -36,4 +36,4 @@ List of supported languages of the nltk.corpus stopwords class.
 If you want to check how everything works, just use the demo function and you're good to go! 
 P.S.: Don't forget to change the indicated variables.
       
-     
+      
